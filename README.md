@@ -2,14 +2,8 @@
 
 ## 计算机专业大学生
 
-热爱前端、热爱技术，练习时长两年半。
+热爱前端、热爱技术，喜欢发现与解决问题。
 
-### **社交主页：**
-
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
-
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
 
 ### **技术栈:**
 
